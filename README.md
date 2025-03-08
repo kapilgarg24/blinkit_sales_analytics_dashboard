@@ -2,7 +2,7 @@
 
 This Power BI dashboard provides insights into Blinkit's sales performance, product characteristics, and outlet details.
 
-## Dashboard Visuals & Insights**
+# Dashboard Visuals & Insights
 
 ## KPIs:
 
