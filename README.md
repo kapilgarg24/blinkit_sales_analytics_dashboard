@@ -16,6 +16,7 @@ This Power BI dashboard provides insights into Blinkit's sales performance, prod
 
 
 **Graphs:**
+
 **Total Sales by Fat Content** – Understanding sales distribution by product fat type.
 
 **Total Sales by Item Type** – Identifying high-performing product categories.
@@ -30,6 +31,9 @@ This Power BI dashboard provides insights into Blinkit's sales performance, prod
 
 
 **Tech Stack**
+
 Power BI (Data modeling, visualization, DAX calculations)
+
 Power Query (Data transformation, cleaning)
+
 Excel (Raw dataset)
