@@ -2,9 +2,9 @@
 
 This Power BI dashboard provides insights into Blinkit's sales performance, product characteristics, and outlet details.
 
-**Dashboard Visuals & Insights**
+## Dashboard Visuals & Insights**
 
-**KPIs:**
+## KPIs:
 
 ✅ Total Sales – Overall revenue performance.
 
@@ -15,7 +15,7 @@ This Power BI dashboard provides insights into Blinkit's sales performance, prod
 ✅ Average Rating – Customer sentiment analysis.
 
 
-**Graphs:**
+## Graphs:
 
 **Total Sales by Fat Content** – Understanding sales distribution by product fat type.
 
@@ -30,7 +30,7 @@ This Power BI dashboard provides insights into Blinkit's sales performance, prod
 **Sales by Outlet Location** – Regional performance differences.
 
 
-**Tools & Technologies Used**
+## Tools & Technologies Used
 
 Power BI (Data modeling, visualization, DAX calculations)
 
