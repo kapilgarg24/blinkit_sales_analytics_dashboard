@@ -1,4 +1,4 @@
-# Blinkit-Sales-Analytics-Dashboard
+# Blinkit Sales Analytics Dashboard
 
 This Power BI dashboard provides insights into Blinkit's sales performance, product characteristics, and outlet details.
 
@@ -30,7 +30,7 @@ This Power BI dashboard provides insights into Blinkit's sales performance, prod
 **Sales by Outlet Location** – Regional performance differences.
 
 
-**Tech Stack**
+**Tools & Technologies Used**
 
 Power BI (Data modeling, visualization, DAX calculations)
 
