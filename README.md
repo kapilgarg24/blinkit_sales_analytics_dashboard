@@ -1,6 +1,6 @@
 # Blinkit Sales Analytics Dashboard
 
-This Power BI dashboard provides insights into Blinkit's sales performance, product characteristics, and outlet details.
+This Power BI dashboard provides insights into Blinkit's sales performance and outlet details, enabling a deeper understanding of how various factors influence sales. The dashboard leverages KPIs and visualizations to reveal important trends, identify top-performing segments, and guide data-driven decisions.
 
 # Dashboard Visuals & Insights
 
@@ -28,6 +28,18 @@ This Power BI dashboard provides insights into Blinkit's sales performance, prod
 **Sales by Outlet Size** – Small vs. medium vs. large outlet performance.
 
 **Sales by Outlet Location** – Regional performance differences.
+
+## Key Insights:
+
+**Medium-sized outlets** have the highest sales, totaling **$507.9K**.
+
+**Tier 3 outlet** locations generate the most sales, totaling **$472.13K**.
+
+**Outlets established in 2018** generated **$205K** in sales — the highest among different establishment years.
+
+Item Type **Fruits & Vegetables** has the highest sales at **$180K**.
+
+The data reveals a clear relationship between outlet size and performance, with medium-sized outlets outperforming others.
 
 
 ## Tools & Technologies Used
